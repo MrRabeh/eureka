@@ -11,7 +11,7 @@
 	<groupId>com.rabeh.eureka</groupId>
 	<artifactId>eureka</artifactId>
 	<version>1.0</version>
-	<name>demo</name>
+	<name>eureka</name>
 	<description>eureka project for Spring Boot</description>
 
 	<properties>
